@@ -8,7 +8,7 @@
 
 经测试本镜像不会因为大量占用资源而被封号。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/cyao2q/heroku-deploy-vless/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/cyao2q/heroku-deploy-vless/tree/master)
 
 ## 注意
 
